@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sourabhkol
-- 👀 I’m interested in Data Analytics, Supply Chain Analytics.
+- 👀 I’m interested in Data Analytics & Supply Chain Analytics.
 - 🌱 I’m currently learning Python, SQL and MATLAB.
 - 💞️ I’m looking to collaborate on Python, Data Analysis and Database.
 - 📫 How to reach me sourabhkol27@gmail.com
